@@ -1,3 +1,12 @@
+#CONTRIBUTORS
+
+@ ABDUR RAHIM
+@ AHSAN ALI
+@ AFFAN AKHTAR
+
+
+
+
 #WORKING LINK
 https://retail-store-sales-prediction.streamlit.app/
 # Retail Store Sales Prediction & Intelligence
